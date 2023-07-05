@@ -1,8 +1,4 @@
-﻿using DocumentFormat.OpenXml.Spreadsheet;
-using DocumentFormat.OpenXml.Vml;
 using DocumentFormat.OpenXml.Wordprocessing;
-using Irony.Parsing;
-using Microsoft.Graph.Models;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
@@ -12,14 +8,9 @@ using System.Net.Http.Headers;
 using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
-using Tavis.UriTemplates;
 using MailKit.Net.Smtp;
 using MailKit.Security;
 using MimeKit;
-using System;
-using System.Net;
-using System.IO;
-using System.Net.Sockets;
 
 
 public class MsGraph
