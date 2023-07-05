@@ -18,7 +18,7 @@ namespace alerta_Email
         static async Task Main(string[] args)
         {
 
-            string filePath = "C:\\Users\\lucas\\OneDrive\\Projetos\\Alerta_Email\\Pasta teste\\controle_clientes.xlsx";
+            string filePath = \\Alerta_Email\\Pasta teste\\controle_clientes.xlsx";
 
             try
             {
