@@ -1,6 +1,4 @@
 ﻿using DocumentFormat.OpenXml.Wordprocessing;
-using alerta_Email;
-using DocumentFormat.OpenXml.Bibliography;
 using Newtonsoft.Json;
 using System;
 using System.Net.Http;
@@ -8,8 +6,7 @@ using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 using Irony.Parsing;
-using DocumentFormat.OpenXml.Spreadsheet;
-using ClosedXML.Excel;
+
 
 namespace alerta_Email
 {
