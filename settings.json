@@ -1,0 +1,9 @@
+{
+  "AppSettings": {
+    "ClientId": "your_clientID",
+    "SecretId": "secretId",
+    "TenantId": "TenantId",
+    "PrincipalEmail": "PrincipalEmail",
+    "token": "Your Token"
+  }
+}
